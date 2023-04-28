@@ -15,7 +15,7 @@
 			return;
 		}
 		if (document.loginFrm.pwd.value == "") {
-			alert("비밀번호를 입력해 주세요.");
+			alert("비밀번호를 력해 주세요.");
 			document.loginFrm.pwd.focus();
 			return;
 		}
